@@ -5,6 +5,7 @@ For this challenge we were asked to refractured a macro for our friend Steve. St
 
 ### All Stocks-Analysis Comparison: Module 2017 vs. Module 2018
 The All-Stocks Analysis module runtime for 2017 was 0.4023438s with 2018 clocking in at 0.4101563s, a difference of 0.0078125s. Because both runtimes were so close, the difference between the two was seemingly unnoticeable. 
+https://github.com/lmiles77/stock-analysis/blob/main/Resources%20M2/2017%20All%20Stocks%20Analysis.PNG
 
 ### All Stocks-Analysis Comparison: Refractured 2017 vs. Refractured 2018
 The All Stocks-Analysis Refractured runtime for 2017 was 0.0703125s with 2018 registering in at 0.3945313s. Although the same macro, processing of 2017 stock data took less time, completing the process 0.3242185s sooner. 
