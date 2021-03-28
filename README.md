@@ -6,15 +6,31 @@ For this challenge we were asked to refractured a macro for our friend Steve. St
 ### All Stocks-Analysis Comparison: Module 2017 vs. Module 2018
 The All-Stocks Analysis module runtime for 2017 was 0.4023438s with 2018 clocking in at 0.4101563s, a difference of 0.0078125s. Because both runtimes were so close, the difference between the two was seemingly unnoticeable. 
 
+![image](https://user-images.githubusercontent.com/80069183/112759051-e98bb880-8fb6-11eb-9478-1a1bbf39841b.png)
+
+![image](https://user-images.githubusercontent.com/80069183/112759112-25268280-8fb7-11eb-80ae-b799de8bc583.png)
 
 ### All Stocks-Analysis Comparison: Refractured 2017 vs. Refractured 2018
 The All Stocks-Analysis Refractured runtime for 2017 was 0.0703125s with 2018 registering in at 0.3945313s. Although the same macro, processing of 2017 stock data took less time, completing the process 0.3242185s sooner. 
 
+![image](https://user-images.githubusercontent.com/80069183/112759159-6323a680-8fb7-11eb-8ce1-08b68acbd074.png)
+
+![image](https://user-images.githubusercontent.com/80069183/112759183-7cc4ee00-8fb7-11eb-9ffb-ef6fd8805a26.png)
+
+
 ### All Stocks-Analysis Comparison: Module 2017 vs. Refractured 2017
 The All Stocks-Analysis 2017 runtime was 0.4023438. While the runtime for All-Stocks Analysis 2018 refractured runtime was 0.0703125. The 2017 refractured runtime was 0.3320313s faster. The 2017 refractured runtime was the fastest of all the runtimes I observed.
 
+![image](https://user-images.githubusercontent.com/80069183/112759051-e98bb880-8fb6-11eb-9478-1a1bbf39841b.png)
+
+![image](https://user-images.githubusercontent.com/80069183/112759159-6323a680-8fb7-11eb-8ce1-08b68acbd074.png)
+
 ### All Stocks-Analysis Comparison: Module 2018 vs. Refractured 2018
 The All Stocks-Analysis module 2018 runtime was 0.41201563s. While the runtime for All-Stocks Analysis refractured for 2018 was 0.3945313s. These times were closer than those of the 2017 and  2018 module vs. refractured times. 
+
+![image](https://user-images.githubusercontent.com/80069183/112759112-25268280-8fb7-11eb-80ae-b799de8bc583.png)
+
+![image](https://user-images.githubusercontent.com/80069183/112759183-7cc4ee00-8fb7-11eb-9ffb-ef6fd8805a26.png)
 
 ## Refractoring: Advantages vs. Disadvantages
 
